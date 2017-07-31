@@ -1,7 +1,6 @@
 # linearmodels-NFL
 
 ## Analysis of The National Football League Data
-![alt text](http://www.stickpng.com/assets/images/5895deb9cba9841eabab6099.png)
 Given in-game NFL statistics (besides scoring)...
 * Predict point totals
 * Predict winners and losers
