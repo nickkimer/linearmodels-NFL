@@ -20,5 +20,5 @@ Given in-game NFL statistics (besides scoring)...
 
 ### Feature Engineering
 We created new variables that were suspected of being useful in predicting game output that were not already in the dataset.
-![Alt text](https://raw.github.com/nickkimer/linearmodels-NFL/screenshots/feature_engineering.png)
+![Alt text](https://raw.github.com/nickkimer/linearmodels-NFL/screenshots/feature_engineering.PNG)
 
